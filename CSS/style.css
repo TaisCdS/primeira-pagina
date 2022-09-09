@@ -104,8 +104,6 @@ input, textarea{
 input:hover, textarea:hover, input:focus, textarea:focus{
     text-align: center;
     background-color: rgb(174, 162,202);
-    height: 40px;
-    width: 90px;
     font-weight: bold;
     border-radius: 8px;
     -webkit-border-radius:8px;

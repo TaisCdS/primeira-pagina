@@ -4,7 +4,7 @@
 
 <p> O objetivo é criar uma página web utilizando HTML e CSS o qual aprendemos em sala. O projeto deve usar uma estrutura de pastas separadas para o CSS e para as imagens. </p>
 
-<h3> Requesitos do projeto: <h3>
+<h3> Requesitos do projeto: </h3>
 <p>A página de apresentação deve conter 3 seções linkadas no topo do site, são elas:
 <p> ➸ Resumo/quem é você; </p>                                             
 <p> ➸ Hobbies e interesses; </p>                  

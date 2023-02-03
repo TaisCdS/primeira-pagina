@@ -18,4 +18,4 @@
 <br>
 
 <h3> Status: </h3>
-<p> Finalizado </p>
+<p> Finalizado. </p>

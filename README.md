@@ -22,7 +22,7 @@
 <h3>✦Ferramentas utilizadas no projeto:</h3>
 <p>➸ HTML;</p>
 <p>➸ CSS;</p>
-<p>➸VISUAL STUDIO CODE;</p>
+<p>➸ VISUAL STUDIO CODE;</p>
 <p>➸ GITHUB.</p>
 <hr>
 <br>

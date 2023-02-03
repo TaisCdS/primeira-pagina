@@ -6,7 +6,7 @@
 <hr>
 <br> 
 
-<h3> Link da página: </h3>
+<h3>✦Link da página: </h3>
 <p>https://taisc468.github.io/primeira-pagina/</p>
 <hr>
 <br>
